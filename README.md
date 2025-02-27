@@ -1,13 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome!&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
 </p>
 
 <h1 align="center">
-  Let's Connect and have a Chat!💬
+  Let's Connect 💬 & Innovate! 🌐
 </h1>
 
 <p align="center">
@@ -86,7 +87,7 @@ hobbies: ["Gaming", "Coding"]
 
 ---
 
-<div align="center"> <p style="font-family: 'Georgia', serif; font-size: 1.5em; color: black; font-style: italic; font-weight: bold;"> "Talk is cheap. Show me the code." – Linus Torvalds </p> </div>
+<div align="center"> <p style="font-family: 'Georgia', serif; font-size: 1.5em; color: black; font-style: italic; font-weight: bold;"> "First, solve the problem. Then, write the code." – John Johnson </p> </div>
 
 
 <p align="center">
