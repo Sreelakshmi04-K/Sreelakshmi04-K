@@ -52,7 +52,7 @@ fields_of_interests:
   ]
   
 currently_learning: ["Nest.js"]
-2025 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
+2026 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
 hobbies: ["Gaming", "Coding"]
 ```
   
